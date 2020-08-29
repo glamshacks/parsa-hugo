@@ -3,7 +3,7 @@ title: Luxury Accommodations
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/pexels-taryn-elliott-4099354.jpg"
+image: "/images/pexels-amanda-klamrowski-2212570.jpg"
 categories:
 - Quirky
 tags: []
