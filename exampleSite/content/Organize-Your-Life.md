@@ -3,7 +3,7 @@ title: Locations
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/pexels-andrea-davis-3616195.jpg"
+image: "/images/locations.jpg"
 categories:
 - Serene
 tags:
